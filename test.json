@@ -2,95 +2,60 @@
 	{"PROGRAMA":{
 		
 		"7ZIP": {
-			"endereco": "//10.1.2.60/tjce/aplicativos/qwqe",
-			"serviço": "Acesso Remoto na Máquina no Cliente",
-			"executa": "AnyDesk.bat",
-			"informacao": "CATIWEB"
+			"endereco": "Endereço",
+			"executa": ".bat",
+			"informacao": "Suport"
 		},
 		"Anydesk": {
-			"endereco": "//10.1.2.60/tjce/aplicativos/",
-			"serviço": "Acesso Remoto na Máquina no Cliente",
-			"executa": "AnyDesk.bat",
-			"informacao": "CATIWEB"
+			"endereco": "Endereço",
+			"executa": ".bat",
+			"informacao": "Suport"
 		},
 		"Adobe Acrobat": {
-			"endereco": "//10.1.2.60/tjce/aplicativos/",
-			"serviço": "Acesso Remoto na Máquina no Cliente",
-			"executa": "AnyDesk.bat",
-			"informacao": "CATIWEB"
+			"endereco": "Endereço",
+			"executa": ".bat",
+			"informacao": "Suport"
 		},
 		"Assinador_CPA": {
-			"endereco": "//10.1.2.60/tjce/aplicativos/",
-			"serviço": "Acesso Remoto na Máquina no Cliente",
-			"executa": "AnyDesk.bat",
-			"informacao": "CATIWEB"
+			"endereco": "Endereço",
+			"executa": ".bat",
+			"informacao": "Suport"
 		},
 		"BROFFICE": {
-			"endereco": "//10.1.2.60/tjce/aplicativos/",
-			"servico": "Acesso Remoto na Máquina no Cliente",
-			"executa": "AnyDesk.bat",
-			"informacao": "CATIWEB"
+			"endereco": "Endereço",
+			"executa": ".bat",
+			"informacao": "Suport"
 		},
 		"Certificado TESTE": {
-			"endereco": "//10.1.2.60/tjce/aplicativos/",
-			"serviço": "Acesso Remoto na Máquina no Cliente",
-			"executa": "AnyDesk.bat",
-			"informacao": "CATIWEB"
+			"endereco": "Endereço",
+			"executa": ".bat",
+			"informacao": "Suport"
 		},
 		"DoroPDF": {
-			"endereco": "//10.1.2.60/tjce/aplicativos/",
-			"serviço": "test",
-			"executa": "AnyDesk.bat",
-			"informacao": "CATIWEB"
+			"endereco": "Endereço",
+			"executa": ".bat",
+			"informacao": "Suport"
 		},
 		"Format Factory": {
-			"endereco": "//10.1.2.60/tjce/aplicativos/ok",
-			"serviço": "Acesso Remoto na Máquina no Cliente",
-			"executa": "AnyDesk.bat",
-			"informacao": "CATIWEB"
+			"endereco": "Endereço",
+			"executa": ".bat",
+			"informacao": "Suport"
 		},
 		"FileZilla": {
-			"endereco": "//10.1.2.60/tjce/aplicativos/",
-			"serviço": "test",
-			"executa": "AnyDesk.bat",
-			"informacao": "CATIWEB"
-		},
-		"Papel de Parade": {
-			"endereco": "//10.1.2.60/tjce/aplicativos/",
-			"serviço": "test",
-			"executa": "AnyDesk.bat",
-			"informacao": "CATIWEB"
-		},
-		"PJe": {
-			"endereco": "//10.1.2.60/tjce/aplicativos/",
-			"serviço": "test",
-			"executa": "AnyDesk.bat",
-			"informacao": "CATIWEB"
+			"endereco": "Endereço",
+			"executa": ".bat",
+			"informacao": "Suport"
 		},
 		"Java": {
-			"endereco": "//10.1.2.60/tjce/aplicativos/odasdasdk",
-			"serviço": "test",
-			"executa": "AnyDesk.bat",
-			"informacao": "CATIWEB"
+			"endereco": "Endereço",
+			"executa": ".bat",
+			"informacao": "Suport"
 		},
 		"LibreOffice": {
-			"endereco": "//10.1.2.60/tjce/aplicativos/",
-			"serviço": "test",
-			"executa": "AnyDesk.bat",
-			"informacao": "CATIWEB"
-		},
-		"PJe Office": {
-			"endereco": "//10.1.2.60/tjce/aplicativos/",
-			"serviço": "test",
-			"executa": "AnyDesk.bat",
-			"informacao": "CATIWEB"
-		},
-		"SAJ": {
-			"endereco": "//10.1.2.60/tjce/aplicativos/",
-			"serviço": "test",
-			"executa": "AnyDesk.bat",
-			"informacao": "CATIWEB"
-		}
+			"endereco": "Endereço",
+			"executa": ".bat",
+			"informacao": "Suport"
+
   }
  } 
 
